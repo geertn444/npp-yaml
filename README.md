@@ -14,5 +14,5 @@ Based on gogo2's Darcula theme at:
 
 Copy file Darcula.xml to C:/Users/%USERNAME%/AppData/Roaming/Notepad++/themes directory.
  
-## [Screenshots](./blob/master/image.png)
+## [Screenshots](./image1.png)
 
