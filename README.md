@@ -2,7 +2,8 @@
 ## Sublime-like YAML syntax highlighting for Notepad++
 
 The standard dark Monokai theme for Notepad++ does not have YAML syntax highlighting.
-The github-based Darcula theme has it, but not in my favorite "Sublime"-like colors.
+
+The github-based dark Darcula theme has it, but not in my favorite "Sublime"-like colors.
 
 So i changed the Darcula theme's YAML highlighting to resemble the "Sublime"-like colors and font as much as possible.
 
